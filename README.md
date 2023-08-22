@@ -1,1 +1,1 @@
-# Projeto-integra-o-do-Angular-com-.NET-ASP.NET-Core-Web-API-
+# Projeto-integração-do-Angular-com-.NET-ASP.NET-Core-Web-API-
